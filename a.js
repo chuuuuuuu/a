@@ -1,5 +1,1 @@
-console.log("hello world2");
-
-function name(params) {
-  console.log();
-}
+console.log("hello world");
